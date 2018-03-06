@@ -1,0 +1,100 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 30px;
+    font-size: 14px;
+    background-color: #f3f3f3;
+}
+.navbar{
+    background-color: rgba(43, 11, 96, 0.8);
+}
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #EFBB28 !important;
+    /*background-color: #fff !important;*/
+}
+.footer-section{
+    background-color: rgba(43, 11, 96, 0.8);
+    text-align: center;
+}
+.school{
+    color: #fff;
+}
+
+.right-link{
+    color: #EFBB28;
+}
+
+#my-profile{
+    background-color: #4e340c;
+}
+
+#my-apply{
+    background-color: #16485d;
+}
+
+#my-print-app{
+    background-color: #83334d;
+}
+
+#my-print-alloc{
+    background-color: #6c641e;
+}
+
+#my-check-status{
+    background-color: #263f56;
+}
+
+#my-view{
+    background-color: #3b405c;
+}
+.boxes-1{
+    height: 130px;
+    color: #fff;
+    padding-top: 16px;
+    margin-top: 10px;
+    padding-bottom: 0;
+
+}
+
+.boxes-2 {
+    height: 130px;
+    color: #fff;
+    padding-top: 16px;
+    margin-top: 24px;
+    padding-bottom: 0;
+}
+
+.biodata{
+    background-color: #fff;
+    padding-bottom: 30px;
+
+}
+.notice{
+    padding: 10px 20px;
+    border-left: 3px solid #000;
+    background-color: #efbb28 ;
+    color: #000;
+}
+
+.labels{
+    font-weight: bolder;
+}
+.mywell{
+    background-color: #fff;
+}
+div p a button{
+    color: #ffeb08;
+    background-color: #8d8aae;
+}
+div button{
+    background-color: #efbb28;
+    color: #000;
+}
+div p a:hover button:hover{
+    color: #000;
+}
+h5{
+    color: #fff;
+}

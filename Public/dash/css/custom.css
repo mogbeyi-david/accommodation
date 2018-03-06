@@ -1,0 +1,62 @@
+body{
+    color: rgba(100,100,100,.7) !important;
+}
+.content-menu-icon{
+    font-size: 50px;
+    position: relative;
+    top:5px;
+}
+.content-menu-name{
+    font-size: 20px;
+    /*font-weight: 500;*/
+    position: relative;
+    top:15px;
+    text-align: center !important;
+}
+.card.button{
+    cursor: pointer;
+    height: 80px;
+    color:#787878;
+    transition: ease-in .3s;
+}
+.manage-hostels .card.button{
+    height:70px;
+}
+.card.button:hover{
+    transition: ease-in .3s;
+    box-shadow: 1px 1px 5px rgb(155,155,155) !important;
+}
+.card.button .footer{
+    position: relative;
+    top:15px;
+}
+.card.button .options{
+    position: relative;
+    top: 10px;
+}
+.page-icon{
+    font-size: 30px;
+    display: inline-block;
+}
+.page-name{
+    font-size: 30px;
+    display: inline-block;
+}
+
+.breadcrumb li.active a{
+    text-decoration: underline;
+}
+
+
+.card.registration-form{
+    padding: 20px;
+    padding-top: 5px;
+}
+.card.registration-form label{
+    font-weight:bold;
+}
+
+input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0px;
+}
